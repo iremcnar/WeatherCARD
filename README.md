@@ -3,7 +3,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Electron-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Design-Figma%20Custom-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 
 ---
 
