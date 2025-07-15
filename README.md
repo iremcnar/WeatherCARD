@@ -1,53 +1,58 @@
 # ☀️ Hava Durumu Kartları (Weather Card App)  
-> Electron tabanlı masaüstü hava durumu uygulaması
+> Electron tabanlı, özel tasarımlı masaüstü hava durumu uygulaması
 
-![Weather App](https://img.shields.io/badge/Platform-Electron-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Electron-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Design-Figma%20Custom-purple?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ---
 
-## 📸 Ekran Görüntüsü
+## 🖼️ Figma Tasarımlı Özgün Kartlar
 
-> Örnek bir şehir için hava durumu kartı 👇
+Bu uygulamada kullanılan 4 farklı hava durumu kartı, tamamen Figma ile tarafımdan özel olarak tasarlanmıştır:
 
-<img src="src/img/sunny.png" width="200" alt="Hava Durumu Kartı" />
+- ☀️ Güneşli
+- 🌧️ Yağmurlu
+- ☁️ Bulutlu
+- ❄️ Karlı
 
----
+> 🎨 Bu kartlar, sade ama modern bir arayüzle kullanıcıya güncel hava durumu bilgisini sunar.
 
-## 🌀 Özellikler
+### 🔽 Kart Örnekleri (EK4)
 
-- 🌍 Dünya başkentlerinin hava durumunu gösterir
-- 🌤️ Güneşli, yağmurlu, karlı ve bulutlu gibi farklı kart tasarımları
-- 💻 Electron ile masaüstü uygulaması olarak çalışır
-- ⚡ Şık ve sade kullanıcı arayüzü
-- 🌐 Anlık API çağrısı ile güncel veriler
+| Güneşli | Yağmurlu |
+|--------|----------|
+| ![sunny](src/img/sunny.png) | ![rainy](src/img/rainy.png) |
 
----
+| Bulutlu | Karlı |
+|--------|-------|
+| ![cloudy](src/img/cloudy.png) | ![snowy](src/img/snowy.png) |
 
-## 🔧 Kullanılan Teknolojiler
-
-| Teknoloji | Açıklama |
-|----------|----------|
-| `Electron` | Masaüstü uygulaması geliştirmek için |
-| `HTML, CSS, JS` | Arayüz ve mantıksal yapı |
-| `OpenWeatherMap API` | Hava durumu verileri (örn: `api.openweathermap.org`) |
+> 📌 Bu görseller `src/img/` klasöründe yer almakta ve arka plan tasarımları doğrudan uygulamaya entegredir.
 
 ---
 
-## 🚀 Kurulum & Çalıştırma
+## 📦 Özellikler
 
-> Bu projeyi kendi bilgisayarında çalıştırmak için aşağıdaki adımları takip et:
+- 🌍 Dünya başkentlerine göre hava durumu gösterimi
+- ⚡ Anlık API verisi ile güncel durum bilgisi
+- 🎨 Özgün Figma tasarımlı kartlar
+- 🖥️ Electron destekli masaüstü uygulama
+- 💡 Hafif ve sade kullanıcı deneyimi
+
+---
+
+## 🚀 Kurulum & Başlatma
 
 ```bash
-# 1. Reposu klonla
+# Repo'yu klonla
 git clone https://github.com/iremcnar/weatherCard.git
 
-# 2. Klasöre gir
+# Proje dizinine geç
 cd weatherCard
 
-# 3. Gerekli paketleri kur
+# Bağımlılıkları yükle
 npm install
 
-# 4. Uygulamayı başlat
+# Uygulamayı başlat
 npm start
