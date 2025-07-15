@@ -9,7 +9,7 @@
 
 ## 🖼️ Figma Tasarımlı Özgün Kartlar
 
-Bu uygulamada kullanılan 4 farklı hava durumu kartı, tamamen Figma ile tarafımdan özel olarak tasarlanmıştır:
+Bu uygulamada kullanılan 4 farklı hava durumu kartı, tamamen **Figma** ile tarafımdan özel olarak tasarlanmıştır:
 
 - ☀️ Güneşli
 - 🌧️ Yağmurlu
@@ -20,16 +20,22 @@ Bu uygulamada kullanılan 4 farklı hava durumu kartı, tamamen Figma ile taraf�
 
 ### 🔽 Kart Örnekleri (EK4)
 
-| Güneşli | Yağmurlu |
-|--------|----------|
-| ![sunny](src/img/sunny.png) | ![rainy](src/img/rainy.png) |
-
-| Bulutlu | Karlı |
-|--------|-------|
-| ![cloudy]<img width="418" height="570" alt="cloudyCARD" src="https://github.com/user-attachments/assets/314e380c-c948-44f8-a6d0-db2757ddb019" />
-| ![snowy](src/img/snowy.png) |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b9c8341-1834-4051-9af4-ce819f6bce53" width="200" alt="Güneşli" />
+  <img src="https://github.com/user-attachments/assets/9afaa021-6362-4e60-9103-e1d71b6669c0" width="200" alt="Yağmurlu" />
+  <img src="https://github.com/user-attachments/assets/314e380c-c948-44f8-a6d0-db2757ddb019" width="200" alt="Bulutlu" />
+  <img src="https://github.com/user-attachments/assets/ef20c3fb-5272-4f35-aab2-63f28f04e8b6" width="200" alt="Karlı" />
+</p>
 
 > 📌 Bu görseller `src/img/` klasöründe yer almakta ve arka plan tasarımları doğrudan uygulamaya entegredir.
+
+---
+
+## 🖥️ Uygulama Görünümü
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a20e38da-0224-4a2d-85a8-cd7918902f55" width="500" alt="Uygulama Görünümü" />
+</p>
 
 ---
 
