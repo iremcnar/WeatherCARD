@@ -26,7 +26,8 @@ Bu uygulamada kullanılan 4 farklı hava durumu kartı, tamamen Figma ile taraf�
 
 | Bulutlu | Karlı |
 |--------|-------|
-| ![cloudy](src/img/cloudy.png) | ![snowy](src/img/snowy.png) |
+| ![cloudy]<img width="418" height="570" alt="cloudyCARD" src="https://github.com/user-attachments/assets/314e380c-c948-44f8-a6d0-db2757ddb019" />
+| ![snowy](src/img/snowy.png) |
 
 > 📌 Bu görseller `src/img/` klasöründe yer almakta ve arka plan tasarımları doğrudan uygulamaya entegredir.
 
