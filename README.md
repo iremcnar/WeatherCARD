@@ -27,7 +27,7 @@ Bu uygulamada kullanılan 4 farklı hava durumu kartı, tamamen **Figma** ile ta
   <img src="https://github.com/user-attachments/assets/ef20c3fb-5272-4f35-aab2-63f28f04e8b6" width="200" alt="Karlı" />
 </p>
 
-> 📌 Bu görseller `src/img/` klasöründe yer almakta ve arka plan tasarımları doğrudan uygulamaya entegredir.
+> 📌 Bu görseller `src/img/` klasöründe yer almakta ve uygulama arayüzüne entegredir.
 
 ---
 
@@ -35,6 +35,14 @@ Bu uygulamada kullanılan 4 farklı hava durumu kartı, tamamen **Figma** ile ta
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a20e38da-0224-4a2d-85a8-cd7918902f55" width="500" alt="Uygulama Görünümü" />
+</p>
+
+### 📷 Diğer Uygulama Ekran Görüntüleri
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d199c36-8103-452e-bfb4-afa74b98f5ab" width="300" alt="Uygulama Ekranı 1" />
+  <img src="https://github.com/user-attachments/assets/8f04cd53-2b48-45be-a746-22774c70245e" width="300" alt="Uygulama Ekranı 2" />
+  <img src="https://github.com/user-attachments/assets/f0a9d521-6112-48ca-9fa7-06c1599dd327" width="300" alt="Uygulama Ekranı 3" />
 </p>
 
 ---
@@ -63,3 +71,4 @@ npm install
 
 # Uygulamayı başlat
 npm start
+
